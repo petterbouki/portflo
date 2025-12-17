@@ -1,20 +1,21 @@
 // src/components/Work.jsx
 const jobs = [
   {
-    role: "Frontend Developer",
-    company: "Startup A",
-    period: "2024 — Présent",
+    role: "Data Scientist / Machine Learning Engineer",
+    company: "DataTour 2025 – Data Afrique Hub",
+    period: "2025",
     summary:
-      "Développement de dashboards, composants réutilisables et optimisation des performances.",
+      "Participation à un défi de Data Science portant sur la prédiction du risque de défaut de crédit bancaire. Mise en œuvre de modèles de machine learning supervisé (classification) pour prédire le défaut de paiement, analyse des résultats et collaboration au sein d’une équipe multiculturelle avec présentation finale devant un jury.",
   },
   {
-    role: "Stagiaire Développeur Web",
-    company: "Agence B",
-    period: "2023",
+    role: "Data Scientist / Machine Learning Engineer",
+    company: "Défi IA 2025 – Mission ARIEL (ESA)",
+    period: "2025",
     summary:
-      "Intégration de maquettes Figma, animation CSS et amélioration de l’UX.",
+      "Participation à un défi scientifique international visant la prédiction de la présence d’eau et de nuages dans les atmosphères d’exoplanètes à partir de spectres infrarouges et visibles simulés. Analyse de spectres de transit exoplanétaires, prétraitement et ingénierie de variables, implémentation de modèles de classification binaire, évaluation des performances (ROC-AUC, accuracy, validation croisée) et interprétation des résultats dans un contexte scientifique.",
   },
 ];
+
 
 const Work = () => {
   return (

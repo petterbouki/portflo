@@ -1,21 +1,27 @@
 // src/components/Education.jsx
 const diplomas = [
   {
-    title: "Master Informatique",
-    school: "Université X",
-    period: "2022 — 2024",
+    title: "Master 2 DATA SCIENCE",
+    school: "Universit´e Felix Houphouet Boigny UFHB ",
+    period: "2025 — 2026",
     details: "Spécialité Génie logiciel, projets React et architectures modernes.",
   },
   {
-    title: "Licence Informatique",
-    school: "Université Y",
-    period: "2019 — 2022",
+    title: "MASTER 1 DATA SCIENCE ",
+    school: "Universit´e Felix Houphouet Boigny UFHB ",
+    period: "2024 — 2025",
     details: "Développement web, bases de données, algorithmes et POO.",
   },
   {
-    title: "Baccalauréat Scientifique",
-    school: "Lycée Z",
-    period: "2018 — 2019",
+    title: "LICENCE EN MATHEMATIQUE ET APPLICATIONS",
+    school: "Universit´e Felix Houphouet Boigny UFHB ",
+    period: "2023 — 2024",
+    details: "Option Mathématiques, mention Bien.",
+  },
+  {
+    title: "Baccalauréat C",
+    school: "Lycée ",
+    period: "2020 — 2021",
     details: "Option Mathématiques, mention Bien.",
   },
 ];

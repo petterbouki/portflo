@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tonpseudo.github.io/nom-du-repo",
+  "homepage": "https://petterbouki.github.io/portflo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
