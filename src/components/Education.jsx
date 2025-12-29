@@ -4,25 +4,25 @@ const diplomas = [
     title: "Master 2 DATA SCIENCE",
     school: "Universit´e Felix Houphouet Boigny UFHB ",
     period: "2025 — 2026",
-    details: "Spécialité Génie logiciel, projets React et architectures modernes.",
+    details: "Spécialité Data Scientist, Data Analyst.",
   },
   {
     title: "MASTER 1 DATA SCIENCE ",
     school: "Universit´e Felix Houphouet Boigny UFHB ",
     period: "2024 — 2025",
-    details: "Développement web, bases de données, algorithmes et POO.",
+    details: "Spécialité Data Scientist, Data Analyst.",
   },
   {
     title: "LICENCE EN MATHEMATIQUE ET APPLICATIONS",
     school: "Universit´e Felix Houphouet Boigny UFHB ",
     period: "2023 — 2024",
-    details: "Option Mathématiques, mention Bien.",
+    details: "Option Mathématiques Appliqués, assez Bien.",
   },
   {
     title: "Baccalauréat C",
     school: "Lycée ",
     period: "2020 — 2021",
-    details: "Option Mathématiques, mention Bien.",
+    details: "Mention, Assez Bien.",
   },
 ];
 

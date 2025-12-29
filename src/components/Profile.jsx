@@ -11,7 +11,7 @@ const Profile = () => {
           Salut, c’est <span className="accent">Assoumou Bruno</span>
         </h2>
         <p className="hero-sub">
-          Étudiant en Master Data Science à l’Université Félix Houphouët-Boigny, titulaire d’une licence en Mathématiques et Applications. Passionné par l’analyse de données et la finance, je souhaite mettre mes compétences en statistique, modélisation et data analysis au service du secteur bancaire. Rigoureux, curieux et motivé, je cherche un stage pour contribuer à l’analyse du risque, la segmentation client ou la décision stratégique basée sur les données.
+          Étudiant en Master Data Science à l’Université Félix Houphouët-Boigny, titulaire d’une licence en Mathématiques et Applications. Passionné par l’analyse de données , je souhaite mettre mes compétences en statistique, modélisation et data analysist au service d'une entreprise dynamique et innovante . Rigoureux, curieux et motivé, je cherche un stage pour contribuer à l’analyse du risque, la segmentation client ou la décision stratégique basée sur les données.
         </p>
         <div className="hero-actions">
           <a href="#projects" className="btn btn-primary">

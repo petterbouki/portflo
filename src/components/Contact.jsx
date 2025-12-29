@@ -1,21 +1,44 @@
 // src/components/Contact.jsx
+
 const Contact = () => {
   return (
     <section id="contact" className="section">
       <h2 className="section-title">Contact</h2>
+
       <p className="section-text">
-        Un projet, une idée, une opportunité&nbsp;? Envoie-moi un message.
+        Un projet en Data Science, Intelligence Artificielle,ou une
+        opportunité professionnelle ? N’hésitez pas à me contacter.
       </p>
+
       <form
-        className="contact-form card glass"
-        onSubmit={(e) => e.preventDefault()}
+        className="contact-form"
+        action="mailto:cedrickonan1998@gmail.com"
+        method="POST"
+        encType="text/plain"
       >
         <div className="form-row">
-          <input type="text" placeholder="Nom" required />
-          <input type="email" placeholder="Email" required />
+          <input
+            type="text"
+            name="Nom"
+            placeholder="Nom"
+            required
+          />
+          <input
+            type="email"
+            name="Email"
+            placeholder="Email"
+            required
+          />
         </div>
-        <textarea rows="4" placeholder="Message" required />
-        <button type="submit" className="btn btn-primary">
+
+        <textarea
+          name="Message"
+          rows="4"
+          placeholder="Votre message"
+          required
+        />
+
+        <button className="btn btn-primary" type="submit">
           Envoyer
         </button>
       </form>
