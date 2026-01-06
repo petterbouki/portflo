@@ -11,13 +11,14 @@ const Sidebar = () => {
         </div>
       </div>
 
-      <nav className="sidebar-nav">
+       <nav className="sidebar-nav">
         <a href="#profile">Profil</a>
         <a href="#education">Diplômes</a>
         <a href="#work">Expérience</a>
         <a href="#projects">Projets</a>
+        <a href="#gallery">Certifications</a>   {/* nouveau */}
         <a href="#contact">Contact</a>
-      </nav>
+       </nav>
     </aside>
   );
 };
